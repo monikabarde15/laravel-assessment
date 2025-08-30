@@ -1,0 +1,21 @@
+name,price,description,stock,category_id
+Apple iPhone 15,799,Latest iPhone model,50,1
+Samsung Galaxy S23,699,High-end Samsung phone,40,1
+Sony Headphones WH-1000XM5,299,Noise-cancelling headphones,30,2
+Dell XPS 13 Laptop,999,Ultra-thin laptop,20,3
+Logitech MX Master 3,99,Wireless mouse,100,4
+Canon EOS R6,2499,Professional mirrorless camera,10,5
+Apple MacBook Pro 16,2499,Powerful MacBook laptop,15,3
+Samsung Galaxy Tab S9,649,High-end tablet,25,1
+Bose QuietComfort 45,329,Premium noise-cancelling headphones,35,2
+HP Envy 13 Laptop,899,Slim and lightweight laptop,18,3
+Sony PlayStation 5,499,Next-gen gaming console,50,6
+Microsoft Xbox Series X,499,Next-gen gaming console,45,6
+Nintendo Switch OLED,349,Portable gaming console,60,6
+GoPro Hero 12,399,Action camera with 5K video,22,5
+Apple AirPods Pro 2,249,Wireless earbuds,80,2
+Samsung Galaxy Buds 2,149,Wireless earbuds,75,2
+Kindle Paperwhite,129,Waterproof e-reader,40,7
+Fitbit Charge 6,179,Fitness tracker with heart rate monitor,50,8
+Dyson V15 Detect,699,Cordless vacuum cleaner,12,9
+Instant Pot Duo 7-in-1,99,Multi-use pressure cooker,30,10

@@ -112,8 +112,10 @@ php artisan websockets:serve
 php artisan serve
 
 
-Visit: http://127.0.0.1:8000/
-
+Admin: http://127.0.0.1:8000/admin/login
+Customer : http://127.0.0.1:8000/customer/login
+if any user not exis in users table you need to register for admin first time 
+http://127.0.0.1:8000/admin/register
 Sample CSV
 
 Path: database/products_sample_import.csv

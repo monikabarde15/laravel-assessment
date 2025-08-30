@@ -23,13 +23,14 @@ Route::prefix('admin')->name('admin.')->group(function () {
         Route::get('dashboard', [AdminAuth::class, 'dashboard'])->name('dashboard');
         Route::post('logout', [AdminAuth::class, 'logout'])->name('logout');
 
-        Route::resource('products', AdminProducts::class);
         Route::get('orders', [AdminOrders::class, 'index'])->name('orders.index');
         Route::patch('orders/{order}', [AdminOrders::class, 'updateStatus'])->name('orders.updateStatus');
 
         // Import
         Route::get('products/import', [AdminProducts::class, 'importForm'])->name('products.import.form');
         Route::post('products/import', [AdminProducts::class, 'import'])->name('products.import');
+        Route::resource('products', AdminProducts::class);
+
     });
 });
 
